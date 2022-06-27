@@ -1,0 +1,7 @@
+C:\Users\poliv\RiderProjects\testc-\client\bin\Debug\client.exe
+C:\Users\poliv\RiderProjects\testc-\client\bin\Debug\client.pdb
+C:\Users\poliv\RiderProjects\testc-\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\poliv\RiderProjects\testc-\client\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+C:\Users\poliv\RiderProjects\testc-\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\poliv\RiderProjects\testc-\client\obj\Debug\client.exe
+C:\Users\poliv\RiderProjects\testc-\client\obj\Debug\client.pdb
