@@ -1,0 +1,7 @@
+C:\Users\poliv\RiderProjects\SomeProject\SomeProject\bin\Debug\SomeProject.exe
+C:\Users\poliv\RiderProjects\SomeProject\SomeProject\bin\Debug\SomeProject.pdb
+C:\Users\poliv\RiderProjects\SomeProject\SomeProject\obj\Debug\SomeProject.csproj.AssemblyReference.cache
+C:\Users\poliv\RiderProjects\SomeProject\SomeProject\obj\Debug\SomeProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\poliv\RiderProjects\SomeProject\SomeProject\obj\Debug\SomeProject.csproj.CoreCompileInputs.cache
+C:\Users\poliv\RiderProjects\SomeProject\SomeProject\obj\Debug\SomeProject.exe
+C:\Users\poliv\RiderProjects\SomeProject\SomeProject\obj\Debug\SomeProject.pdb
